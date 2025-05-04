@@ -1,0 +1,39 @@
+@import "reset.css";
+
+/*About-shelter section*/
+.about-shelter .container {
+    box-sizing: border-box;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 80px 175px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.about-shelter .about-shelter-title {
+    font-family: "Georgia", sans-serif;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 45.5px;
+    letter-spacing: 0.06px;
+    color: #545454;
+}
+.about-shelter .about-shelter-description {
+    margin-top: 25px;
+    font-family: "Arial", sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #4C4C4C;
+}
+.about-shelter .content {
+    max-width: 430px;
+}
+
+.help-shelter .help-shelter-cards {
+    display: flex;
+}
+
+.help-shelter .card-image {}
+
+.help-shelter .card-title {}
